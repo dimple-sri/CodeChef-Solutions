@@ -12,7 +12,7 @@ class Codechef
 
         switch (ch)
         {
-            case '+':
+            case '+';
                 System.out.println(a + b);
                 break;
 
