@@ -21,7 +21,6 @@ class Codechef {
             System.out.println("First Langugage:"+lang.get(0));
             System.out.println("Last Langugage:"+lang.get(lang.size()-1));
         }
-        // Step 5: Print first and last elements
         sc.close();
     }
 }
