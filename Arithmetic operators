@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 class Codechef
 {
     public static void main(String[] args)
