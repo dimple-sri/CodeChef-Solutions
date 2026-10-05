@@ -12,7 +12,7 @@ class Codechef
 		int t = Integer.parseInt(line.trim());
 		StringBuilder sb = new StringBuilder();
 	    while(t-- > 0)
-	    {
+			{
 	        String currLine = br.readLine();
 	        while(currLine != null && currLine.trim().isEmpty())
 	        {
