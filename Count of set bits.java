@@ -4,9 +4,7 @@ import java.io.*;
 class Codechef
 {
 	public static void main (String[] args) throws java.lang.Exception
-	{
-		// your code goes here
-		Scanner sc = new Scanner(System.in);
+	{		Scanner sc = new Scanner(System.in);
 		if(sc.hasNextInt())
 		{
 		    int n = sc.nextInt();
