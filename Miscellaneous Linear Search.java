@@ -16,7 +16,6 @@ class Codechef
 		        a[i][j] = sc.nextInt();
 		    }
 		}
-		
 		int x = sc.nextInt();
 		int y = sc.nextInt();
 		
